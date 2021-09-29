@@ -1,6 +1,6 @@
 # K8s monitoring with Elastic for Cloud Voting App
 
-forked from yukshimizu/cloud-voting-app-redis
+[forked from yukshimizu/cloud-voting-app-redis]
 
 This repo includes examples of K8s monitoring with the Elastic Stack in different ways for  a multi-container application in a K8s cluster. The application interface has been built using Python/Flask. The data component is using Redis. The application is instrumented with Prometheus Python Client to demonstrate a custom metric `cloud_votes`.
 
